@@ -1,6 +1,6 @@
 ## Ejercicio Trainee *******
 
-*Diagrama de clases de la solución [aquí]*(https://github.com/balath/ejercicio-trainee/blob/master/ClassDiagram.png)
+*Diagrama de clases de la solución [aquí](https://github.com/balath/ejercicio-trainee/blob/master/ClassDiagram.png)*
 
 Imaginemos una concesionaria de autos y motos.
 Crear un programa en Java o Javascript que, al ejecutarse, se visualice lo siguiente por consola:  
